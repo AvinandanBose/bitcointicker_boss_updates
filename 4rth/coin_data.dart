@@ -29,4 +29,4 @@ const List<String> cryptoList = [
   'DOGE',
 ];
 
-class CoinData {}
+
