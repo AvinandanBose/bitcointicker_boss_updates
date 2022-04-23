@@ -20,35 +20,34 @@ class _PriceScreenState extends State<PriceScreen> {
 
   void update() async {
     data = await FetchData().getData('BTC', 'USD');
-    //data1 = await FetchData().getData('ETH', 'USD');
-    //data2 = await FetchData().getData('LTC', 'USD');
-    setState(() {
-      bitcoinValue = data.toString();
-      //bitcoinValue1 = data1.toString();
-      //bitcoinValue2 = data2.toString();
-    });
-  }
-
-  void update1() async {
     data1 = await FetchData().getData('ETH', 'USD');
-    setState(() {
-      bitcoinValue1 = data1.toString();
-    });
-  }
-
-  void update2() async {
     data2 = await FetchData().getData('LTC', 'USD');
     setState(() {
+      bitcoinValue = data.toString();
+      bitcoinValue1 = data1.toString();
       bitcoinValue2 = data2.toString();
     });
   }
+
+  // void update1() async {
+  //   data1 = await FetchData().getData('ETH', 'USD');
+  //   setState(() {
+  //     bitcoinValue1 = data1.toString();
+  //   });
+  // }
+
+  // void update2() async {
+  //   data2 = await FetchData().getData('LTC', 'USD');
+  //   setState(() {
+  //     bitcoinValue2 = data2.toString();
+  //   });
+  // }
 
   @override
   void initState() {
     super.initState();
     update();
-    update1();
-    update2();
+
   }
 
   DropdownButton<String> getDropdownButton() {
