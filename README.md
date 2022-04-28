@@ -34,3 +34,11 @@
 <h3><li> 14th Update: <a href = 'https://github.com/AvinandanBose/bitcointicker_boss_updates/tree/main/15th'> Bit Coin Ticker App Boss Chalenge 15th Update </a></li></h3>
 
 <h3><li> Last Update and Completed Challenge: <a href = 'https://github.com/AvinandanBose/bitcointicker_boss_updates/tree/main/16th_last'> Bit Coin Ticker App Boss Chalenge Completion </a></li></h3>
+
+<h3> Hence after final Boss Challenge we get </h3>
+<hr>
+<ul >
+ <h3><li>1. Boss Challenge 1 (Completed): <a href = 'https://github.com/AvinandanBose/Bitcoin-ticker-bosschallenge'> Bit Coin Ticker App Boss Chalenge  Completion (1) </a></li></h3>
+ 
+ <h3><li>2. Boss Challenge 2 (Completed): <a href = 'https://github.com/AvinandanBose/bitcointicker_boss_challenge_2'> Bit Coin Ticker App Boss Chalenge  Completion (2) </a></li></h3>
+</ul>
