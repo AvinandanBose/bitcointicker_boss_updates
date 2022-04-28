@@ -42,3 +42,10 @@
  
  <h3><li>2. Boss Challenge 2 (Completed): <a href = 'https://github.com/AvinandanBose/bitcointicker_boss_challenge_2'> Bit Coin Ticker App Boss Chalenge  Completion (2) </a></li></h3>
 </ul>
+
+<hr>
+
+![164185089-ce2ae8cc-49be-4a6e-8640-923b84b2b211](https://user-images.githubusercontent.com/38869235/165839795-921d4d9c-0599-48cd-a2ea-a45016c483d4.gif)
+
+
+
